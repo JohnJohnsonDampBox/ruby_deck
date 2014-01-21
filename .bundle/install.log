@@ -1,0 +1,4 @@
+# Logfile created on 2014-01-21 15:27:07 -0800 by logger.rb/44203
+I, [2014-01-21T15:27:07.935342 #21642]  INFO -- : 0:  ansi (1.4.3) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/ansi-1.4.3.gemspec
+I, [2014-01-21T15:27:07.935896 #21642]  INFO -- : 0:  turn (0.9.6) from /home/johnj/.rvm/gems/ruby-2.1.0/specifications/turn-0.9.6.gemspec
+I, [2014-01-21T15:27:07.936220 #21642]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
