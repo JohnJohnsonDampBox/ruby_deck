@@ -6,7 +6,7 @@ class Card
 
   def initialize(r, s)
 
-    if @@ranks.include?(r) and @@suits.include?(s)
+    if @@ranks.include?(r) && @@suits.include?(s)
       @rank = r
       @suit = s
     else
@@ -33,6 +33,6 @@ class DeckOfCards
 
 end
 
-#d = DeckOfCards.new
+d = DeckOfCards.new
 
-#d.cards.each { |x| puts x.rank + ', ' + x.suit}
+d.cards.each { |x| puts x.rank + ', ' + x.suit}
